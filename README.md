@@ -4,8 +4,6 @@ C / C++ Developer (mainly for Windows via Win32)
 Also somewhat experienced in Python, C#, Java, SQL, Assembly (AT&T syntax ftw ignore the asm in astraea tho 😔), HTML/CSS/JS.
 (Not my favorite languages, but necessary to know)
 
-⸻
-
 # Skills
 
 3D Graphics
@@ -32,8 +30,6 @@ Reverse Engineering
 Game Hacking & Anti-Cheat / Malware Development
 	•	Anti-Cheat: Kernel driver development, anti-tampering, overall anti-cheat design
 	•	Game Hacking: Memory analysis, runtime modification, offset discovery, DLL injection, custom hooking & manual mapping
-
-⸻
 
 # Contact
 	•	Blog (coming soon): https://prolib.lol/
