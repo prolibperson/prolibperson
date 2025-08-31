@@ -2,7 +2,6 @@
 
 **C / C++ Developer** (mainly for Windows via Win32)  
 Also somewhat experienced in **Python, C#, Java, SQL, Assembly (AT&T syntax ftw), HTML/CSS/JS**.  
-*Not my favorite languages, but necessary to know*
 
 ---
 
