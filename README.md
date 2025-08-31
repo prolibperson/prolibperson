@@ -1,34 +1,42 @@
-C / C++ Developer (mainly for Windows via Win32)
-Along with Python, C#, Java, SQL, Assembly (at&t syntax ftw ignore the asm in astraea tho), and the typical HTML/CSS/JS. <-- Hate all these languages but gotta know them
+# About Me
 
-What I'm capable of doing:
+C / C++ Developer (mainly for Windows via Win32)
+Also somewhat experienced in Python, C#, Java, SQL, Assembly (AT&T syntax ftw ignore the asm in astraea tho 😔), HTML/CSS/JS.
+(Not my favorite languages, but necessary to know)
+
+⸻
+
+# Skills
 
 3D Graphics
-{ Vulkan, DirectX11 and 9, SDL_GPU, GLSL & HLSL, and of course, OpenGL. }
+	•	Vulkan, DirectX 12/11/9, OpenGL, SDL_GPU
+	•	GLSL & HLSL shader programming
 
 Game Development
-{ Unity, Godot, custom game engine development, GunZ: The Duel development, etc. }
+	•	Unity, Godot, custom game engine development
+	•	Experience with GunZ: The Duel development
 
 Networking
-{ TCP & UDP protocol programming, bunch of work with UDP, game networking design, packet analysis. }
+	•	TCP & UDP protocol programming
+	•	Game networking design, packet analysis
 
 Operating System Development
-{ BIOS and UEFI bootloader development, x86_64 kernel development, embedded systems, etc. }
+	•	BIOS & UEFI bootloader development
+	•	x86_64 kernel development
+	•	Embedded systems
 
 Reverse Engineering
-{ 
-(Static Analysis) IDA, Binja, Ghidra, Windows PE format;
-(Dynamic Analysis) x64dbg, windbg, GDB, process dumping;
-}
+	•	Static Analysis: IDA, Binary Ninja, Ghidra, Windows PE format
+	•	Dynamic Analysis: x64dbg, WinDbg, GDB, process dumping
 
-Game Hacking & Anti-Cheat Development & Malware Development in a way? (Same techniques apply so..)
-{ 
-(Anti-Cheat Development) Kernel driver development, anti-tampering, overall anti-cheat design;
-(Game Hacking) Game memory analysis, runtime modification, offset discovery, DLL injection, custom hooking & manual mapping;
-}
+Game Hacking & Anti-Cheat / Malware Development
+	•	Anti-Cheat: Kernel driver development, anti-tampering, overall anti-cheat design
+	•	Game Hacking: Memory analysis, runtime modification, offset discovery, DLL injection, custom hooking & manual mapping
 
-Blog (soon): https://prolib.lol/
+⸻
 
-Discord: @maiet
-Email: maietprolib@gmail.com
-X: @prolibperson
+# Contact
+	•	Blog (coming soon): https://prolib.lol/
+	•	Discord: @maiet
+	•	Email: maietprolib@gmail.com
+	•	X (Twitter): @prolibperson
